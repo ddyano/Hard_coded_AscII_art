@@ -46,12 +46,7 @@ Each character acts like a pixel in a console-based rendering system.
 
 ---
 
-## ▶️ How to Run
 
-Clone the repository:
-
-```bash
-git clone https://github.com/ddyano/Hard_coded_ASCII_art.git
 <img width="733" height="731" alt="kubo" src="https://github.com/user-attachments/assets/471bf122-0b61-47f4-99b7-506c81f77a06" />
 <img width="424" height="838" alt="Screenshot 2026-02-20 100152" src="https://github.com/user-attachments/assets/fc877a28-594f-43e9-9c1b-c265a08ccacf" />
 
